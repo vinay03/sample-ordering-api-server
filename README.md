@@ -33,3 +33,24 @@ npm run serve
 </pre>
 
 `Note: Above command starts Laravel server on port 8000. If you have any other service using the same port, then please stop that service first`
+
+5. Open following URL in your browser.
+
+http://127.0.0.1:8000/app
+
+
+## Test Data
+
+### Use following login credentials :
+
+`Franchise`
+<pre>
+Email : franchise@abc.com
+Password : 1234
+</pre>
+
+`Admin`
+<pre>
+Email : admin@abc.com
+Password : 1234
+</pre>
