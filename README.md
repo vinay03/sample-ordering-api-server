@@ -1,5 +1,16 @@
 # Sample Ordering - API Server
 
+## Pre-Requisites
+Please make sure you following tools installed in your machine before proceeding for installation:
+<pre>
+Node Package Manager
+Composer
+PHP v7.x
+MySQL
+
+</pre>
+
+
 ## Installation
 1. Run following commands to clone this repository and load dependency
 <pre>
@@ -35,8 +46,9 @@ npm run serve
 `Note: Above command starts Laravel server on port 8000. If you have any other service using the same port, then please stop that service first`
 
 5. Open following URL in your browser.
-
+<pre>
 http://127.0.0.1:8000/app
+</pre>
 
 
 ## Test Data
